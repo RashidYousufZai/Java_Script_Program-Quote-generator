@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blueviolet;
+
+}
+
+.container {
+    margin-top: 16%;
+    text-align: center;
+}
+
+.container div,
+a {
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+}
+
+a {
+    margin-top: 20px;
+    text-decoration: none;
+    color: red;
+    border: 1px solid rgb(192, 225, 255);
+    background-color: rgb(116, 51, 156);
+    border-radius: 10px;
+}
+
+.format {
+    margin: auto;
+    width: 50%;
+    border: 3px solid none;
+    background-color: blue;
+    border-radius: 20px;
+    padding: 10px;
+   
+}
